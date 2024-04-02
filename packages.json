@@ -1,0 +1,22 @@
+[
+    {
+        "package": "lidR",
+        "url": "https://github.com/r-lidar/lidR"
+    },
+    {
+        "package": "lasR",
+        "url": "https://github.com/r-lidar/lasR"
+    },
+    {
+        "package": "rlas",
+        "url": "https://github.com/r-lidar/rlas"
+    },
+    {
+        "package": "RCSF",
+        "url": "https://github.com/r-lidar/RCSF"
+    },
+    {
+        "package": "RMCC",
+        "url": "https://github.com/r-lidar/RMCC"
+    }
+]
