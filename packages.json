@@ -8,6 +8,10 @@
         "url": "https://github.com/r-lidar/lasR"
     },
     {
+        "package": "lasRui",
+        "url": "https://github.com/r-lidar/lasRui"
+    },
+    {
         "package": "rlas",
         "url": "https://github.com/r-lidar/rlas"
     },
