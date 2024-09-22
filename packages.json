@@ -12,6 +12,10 @@
         "url": "https://github.com/r-lidar-lab/lasRui"
     },
     {
+        "package": "lidRviewer",
+        "url": "https://github.com/r-lidar-lab/lidRviewer"
+    },
+    {
         "package": "rlas",
         "url": "https://github.com/r-lidar/rlas"
     },
