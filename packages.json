@@ -13,7 +13,7 @@
     },
     {
         "package": "lidRviewer",
-        "url": "https://github.com/r-lidar-lab/lidRviewer"
+        "url": "https://github.com/r-lidar/lidRviewer"
     },
     {
         "package": "rlas",
