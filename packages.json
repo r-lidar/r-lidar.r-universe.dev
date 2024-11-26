@@ -16,6 +16,10 @@
         "url": "https://github.com/r-lidar/rlas"
     },
     {
+        "package": "lasR",
+        "url": "https://github.com/r-lidar/lasR"
+    },
+    {
         "package": "RCSF",
         "url": "https://github.com/r-lidar/RCSF"
     },
