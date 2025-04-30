@@ -26,5 +26,9 @@
     {
         "package": "RMCC",
         "url": "https://github.com/r-lidar/RMCC"
+    },
+    {
+        "package": "lidRalignment",
+        "url": "https://github.com/r-lidar/lidRalignment"
     }
 ]
