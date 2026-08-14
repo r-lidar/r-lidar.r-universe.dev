@@ -4,10 +4,6 @@
         "url": "https://github.com/r-lidar/lidR"
     },
     {
-        "package": "lasRui",
-        "url": "https://github.com/r-lidar-lab/lasRui"
-    },
-    {
         "package": "lidRviewer",
         "url": "https://github.com/r-lidar/lidRviewer"
     },
